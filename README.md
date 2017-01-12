@@ -8,5 +8,5 @@ File ini adalah contoh penggunaan library ini. Beberapa fungsi dapat dilihat di 
 File ini merupakan file hasil kompilasi dari file implement.cpp menggunakan G++.
 
 ## File Tumpukan.h
-File ini merupakan library tumpukan yang siap pakai. CUkup include sebagai header file.
+File ini merupakan library tumpukan yang siap pakai. Cukup include sebagai header file.
 Bagian ini juga sudah menginclude iostream.
